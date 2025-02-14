@@ -13,3 +13,6 @@ Highlights:
  * Customizable font size controls
  * Webhook integration support
  * Professional deployment walkthrough
+
+DashBoard
+https://github.com/Mohammed-Imthihyaz/IDE-CodeEditor/blob/main/dashBoard.jpg?raw=true
