@@ -15,5 +15,12 @@ Highlights:
  * Professional deployment walkthrough
 Login page
 ![Image Alt](https://github.com/Mohammed-Imthihyaz/IDE-CodeEditor/blob/main/loginPage.jpg?raw=true)
+
+
 DashBoard
 ![Image Alt](https://github.com/Mohammed-Imthihyaz/IDE-CodeEditor/blob/main/dashBoard.jpg?raw=true)
+
+Snippets Sharing page
+![Image Alt](https://github.com/Mohammed-Imthihyaz/IDE-CodeEditor/blob/main/snippetsPage.jpg?raw=true)
+
+
