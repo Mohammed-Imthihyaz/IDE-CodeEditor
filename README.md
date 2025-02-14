@@ -15,4 +15,5 @@ Highlights:
  * Professional deployment walkthrough
 
 DashBoard
-https://github.com/Mohammed-Imthihyaz/IDE-CodeEditor/blob/main/dashBoard.jpg?raw=true
+![Image Alt]([image_url](https://github.com/Mohammed-Imthihyaz/IDE-CodeEditor/blob/main/dashBoard.jpg?raw=true
+))
