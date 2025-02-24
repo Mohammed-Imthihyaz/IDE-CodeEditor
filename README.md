@@ -74,6 +74,3 @@ Feel free to fork this repository and create pull requests. Contributions are we
 ---
 ---
 
-## 📧 Contact
-For queries, reach out via [LinkedIn](#) or [Email](#).
-
