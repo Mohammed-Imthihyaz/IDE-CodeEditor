@@ -1,6 +1,6 @@
 import axios from "axios";
 import { create } from "zustand";
-const API_URI ="http://localhost:3000/api/codes";
+const API_URI = import.meta.env.VITE_API_URI;
 export const useSnippetDetail=create((set)=>({
   comments: [],
   error: null,
